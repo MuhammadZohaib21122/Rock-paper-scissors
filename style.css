@@ -1,0 +1,18 @@
+* {
+    margin: 0;
+    padding: 0;
+    text-align: center;
+}
+
+h1 {
+    background-color: rgb(3, 255, 129);
+    color: blueviolet;
+    height: 5rem;
+    line-height: 5rem;
+}
+
+.choice 
+{
+    height: 100px;
+    width: 100px;
+}
