@@ -13,10 +13,10 @@ const genCompChoice = () => {
   return options[randIdx];
 };
 
-// const drawGame = () => {
-//   msg.innerText = "Game was Draw. Play again.";
-//   msg.style.backgroundColor = "#081b31";
-// };
+const drawGame = () => {
+  msg.innerText = "Game was Draw. Play again.";
+  msg.style.backgroundColor = "#081b31";
+};
 
 // const showWinner = (userWin, userChoice, compChoice) => {
 //   if (userWin) {
