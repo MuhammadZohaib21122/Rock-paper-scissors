@@ -32,7 +32,7 @@ const showWinner = (userWin, userChoice, compChoice) => {
   }
 };
 
-// const playGame = (userChoice) => {
+const playGame = (userChoice) => {
 
 //   const compChoice = genCompChoice();
 
@@ -53,7 +53,7 @@ const showWinner = (userWin, userChoice, compChoice) => {
 //     }
 //     showWinner(userWin, userChoice, compChoice);
 //   }
-// };
+ };
 
 // choices.forEach((choice) => {
 //   choice.addEventListener("click", () => {
