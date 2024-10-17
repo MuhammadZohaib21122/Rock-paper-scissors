@@ -36,12 +36,12 @@ const playGame = (userChoice) => {
 
   const compChoice = genCompChoice();
 
-//   if (userChoice === compChoice) {
+  if (userChoice === compChoice) {
     
-//     drawGame();
-//   } else {
-//     let userWin = true;
-//     if (userChoice === "rock") {
+    drawGame();
+  } else {
+    let userWin = true;
+    if (userChoice === "rock") {
       
 //       userWin = compChoice === "paper" ? false : true;
 //     } else if (userChoice === "paper") {
