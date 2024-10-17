@@ -34,7 +34,7 @@ const showWinner = (userWin, userChoice, compChoice) => {
 
 const playGame = (userChoice) => {
 
-//   const compChoice = genCompChoice();
+  const compChoice = genCompChoice();
 
 //   if (userChoice === compChoice) {
     
