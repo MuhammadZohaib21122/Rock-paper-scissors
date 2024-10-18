@@ -43,16 +43,16 @@ const playGame = (userChoice) => {
     let userWin = true;
     if (userChoice === "rock") {
       
-//       userWin = compChoice === "paper" ? false : true;
-//     } else if (userChoice === "paper") {
+      userWin = compChoice === "paper" ? false : true;
+    } else if (userChoice === "paper") {
       
-//       userWin = compChoice === "scissors" ? false : true;
-//     } else {
+      userWin = compChoice === "scissors" ? false : true;
+    } else {
       
-//       userWin = compChoice === "rock" ? false : true;
-//     }
-//     showWinner(userWin, userChoice, compChoice);
-//   }
+      userWin = compChoice === "rock" ? false : true;
+    }
+    showWinner(userWin, userChoice, compChoice);
+  }
  };
 
 // choices.forEach((choice) => {
