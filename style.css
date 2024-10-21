@@ -65,7 +65,7 @@ h1 {
   }
   
   .msg-container {
-    margin-top: 5rem;
+    margin-top: 3rem;
   }
   
   #msg {
@@ -75,4 +75,16 @@ h1 {
     display: inline;
     padding: 1rem;
     border-radius: 1rem;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+  }
+
+  #btnreset {
+    background-color: #e47d07;
+    color: #fff;
+    font-size: 1rem;
+    /* display: inline; */
+    padding: 1rem;
+    border-radius: 1rem;
+    margin-top: 1rem;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
   }
