@@ -68,7 +68,7 @@ h1 {
     margin-top: 3rem;
   }
   
-  #msg {
+  /* #msg {
     background-color: #081b31;
     color: #fff;
     font-size: 2rem;
@@ -76,7 +76,7 @@ h1 {
     padding: 1rem;
     border-radius: 1rem;
     font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
-  }
+  } */
 
   #btnreset {
     background-color: #e47d07;
